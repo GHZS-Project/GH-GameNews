@@ -1,6 +1,6 @@
 # GH-GameNews
 
-> 📚 **本文档属于 GH 系列交接项目。** 总入口（全部 10 个仓库索引、可用性实测、可复制的 AI Agent prompt）：https://github.com/A13612812330/GH-Handover
+> 📚 **本文档属于 GH 系列交接项目。** 总入口（全部 10 个仓库索引、可用性实测、可复制的 AI Agent prompt）：https://github.com/GHZS-Project/GH-Handover
 
 > 中文游戏资讯采集、阅读、日报/周报海报生成与飞书投递工具。
 
@@ -29,7 +29,7 @@ GH-GameNews 面向手游资讯分发场景，从 Steam、TapTap、好游快爆�
 ## 启动
 
 ```powershell
-git clone https://github.com/A13612812330/GH-GameNews.git
+git clone https://github.com/GHZS-Project/GH-GameNews.git
 cd GH-GameNews
 npm ci
 Copy-Item .env.example .env.local
